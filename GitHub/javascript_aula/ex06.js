@@ -17,7 +17,7 @@ if (media < 0 || media > 20) {
 } else if (media >= 14) {
     console.log("Bom");
 }else if (media >= 10) {
-    console.log("Suficiente");
+    console.log("Suficiente");+
 }else {
     console.log("Não Suficiente");
 }
